@@ -3,3 +3,36 @@
 p {
     color: green;
 }
+
+ol {
+    color: blue;
+    background-color: yellow;
+}
+
+ul {
+    color: red;
+    background-color: yellow;
+
+}
+
+li {
+    padding: 20px;
+}
+.box-one {
+    background-color: red;
+    padding: 20px;
+    border: 20px solid blue;
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+    box-sizing: border-box;
+}
+
+.rb {
+    background-color: red;
+    padding: 20px;
+    border: 20px solid blue;
+    margin: 60px;
+    height: 200px;
+    width: 200px;
+}
