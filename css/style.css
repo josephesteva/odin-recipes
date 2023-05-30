@@ -16,23 +16,9 @@ ul {
 }
 
 li {
-    padding: 20px;
-}
-.box-one {
-    background-color: red;
-    padding: 20px;
-    border: 20px solid blue;
-    margin: 20px;
-    height: 200px;
-    width: 200px;
-    box-sizing: border-box;
+    padding: 5px;
 }
 
-.rb {
-    background-color: red;
-    padding: 20px;
-    border: 20px solid blue;
-    margin: 60px;
-    height: 200px;
-    width: 200px;
+.center {
+    text-align: center;
 }
